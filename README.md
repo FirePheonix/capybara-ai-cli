@@ -1,6 +1,21 @@
-# 🦫 CapybaraCLI - AI-Powered Terminal with Mechanical Keyboard Sounds
+# 🦦 CapybaraCLI - AI-Powered Terminal with Mechanical Keyboard Sounds
 
-An intelligent command-line interface that combines traditional shell commands with AI capabilities, featuring rich markdown rendering, smart command suggestions powered by OpenAI, and **mechanical keyboard sound effects** inspired by [rustyvibes](https://github.com/kb24x7/rustyvibes).
+An intelligent command-line interface that combines traditional shell commands with AI capabilities, featuring rich markdown rendering, smart command suggestions powered by OpenAI, and **mechanical keyboard sound effects** 
+
+## Capybara CLI:
+<img width="1202" height="1019" alt="image" src="https://github.com/user-attachments/assets/4e95194b-9e55-4a25-88a2-aff065728674" />
+
+## AI Generated Comments within CLI:
+<img width="1147" height="566" alt="image" src="https://github.com/user-attachments/assets/1d9cbb2e-abd8-4c6c-b114-9f11acc04dcf" />
+
+## Mechanical Keyboard Sound Options: inspired by [rustyvibes](https://github.com/kb24x7/rustyvibes)
+<img width="1920" height="1030" alt="keyboard_sound py - CLI - Visual Studio Code 25-12-2025 23_27_45" src="https://github.com/user-attachments/assets/8b128a30-6a78-4165-a3f7-b08a4b14d57e" />
+
+## AI powered repo summarizer (readme generator):
+<img width="846" height="1026" alt="image" src="https://github.com/user-attachments/assets/fc400cf7-f4f6-482b-b43e-75e11e0a197c" />
+<img width="628" height="963" alt="image" src="https://github.com/user-attachments/assets/683f1146-0e61-4264-aabd-753d6053429a" />
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
