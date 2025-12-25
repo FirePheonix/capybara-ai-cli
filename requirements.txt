@@ -1,0 +1,7 @@
+prompt-toolkit>=3.0.0
+pyyaml>=6.0.0
+rich>=13.0.0
+openai>=1.0.0
+pynput>=1.7.6
+pydub>=0.25.1
+simpleaudio>=1.0.4
